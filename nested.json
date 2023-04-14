@@ -1,0 +1,10 @@
+{
+  "parent1": {
+    "child1": "child1name",
+    "child2": "child2name"
+  },
+  "parent2": {
+    "child3": "child3name"
+  },
+  "child_list": ["child1", "child2", "child3"]
+}
