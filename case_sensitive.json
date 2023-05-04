@@ -1,4 +1,4 @@
 {
-  "NEW_FIELD": "I AM THE CAPS FIELD",
-  "new_field": "i am the lowercase field"
+  "UPPER_FIELD": "I AM THE CAPS FIELD",
+  "lower_field": "i am the lowercase field"
 }
