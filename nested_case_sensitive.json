@@ -1,0 +1,32 @@
+{
+  "PARENT": [
+    {
+      "ParentType": "Mother",
+      "ParentName": "Meredeth",
+      "Children": [
+        {
+          "Name": "Winfred",
+          "Age": 17
+        },
+        {
+          "Name": "Tabitha",
+          "Age": 25
+        }
+      ]
+    },
+    {
+      "ParentType": "Father",
+      "ParentName": "Ricktavian",
+      "Children": [
+        {
+          "Name": "Gretchen",
+          "Age": 3
+        },
+        {
+          "Name": "Ferdinand",
+          "Age": 7
+        }
+      ]
+    }
+  ]
+}
