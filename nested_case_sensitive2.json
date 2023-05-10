@@ -6,5 +6,12 @@
         "ChildName": "Timothy"
       }
     ]
-  }
+  },
+  "Uncle": [
+    {
+      "THISFIELDISCAPS": {
+        "THISisAsubFIELD": "HelloWorld"
+      }
+    }
+  ]
 }
