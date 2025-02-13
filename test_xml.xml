@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+<data1>
+  <BOOLean>true</BOOLean>
+  <daTe>2023-05-02</daTe>
+  <TimeStamp>2023-04-03T12:30:00.000Z</TimeStamp>
+  <INTeger>22</INTeger>
+  <float>33.3</float>
+  <STRing>hello</STRing>
+  <List>
+    <THING>
+      <subthing>I'm a subthing</subthing>
+      <subint>232</subint>
+    </THING>
+    <THING>
+      <subthing>I'm a subthing</subthing>
+      <subint>454</subint>
+    </THING>
+  </List>
+</data1>
+<data1>
+  <BOOLean>true</BOOLean>
+  <daTe>2023-05-02</daTe>
+  <TimeStamp>2023-04-03T12:30:00.000Z</TimeStamp>
+  <INTeger>22</INTeger>
+  <float>33.3</float>
+  <STRing>hello</STRing>
+  <List>
+    <THING>
+      <subthing>I'm a subthing</subthing>
+      <subint>232</subint>
+    </THING>
+    <THING>
+      <subthing>I'm a subthing</subthing>
+      <subint>454</subint>
+    </THING>
+  </List>
+</data1>
+</root>

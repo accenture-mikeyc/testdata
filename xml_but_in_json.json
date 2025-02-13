@@ -1,0 +1,9 @@
+{
+  "data1": {
+    "BOOLean": true,
+    "daTe": 20230502,
+    "INTeger": 22,
+    "float": 33.3,
+    "STRing": "hello"
+  }
+}
